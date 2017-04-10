@@ -1,0 +1,115 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>songs/x.mp3</file>
+        <file>songs/bip.mp3</file>
+        <file>songs/bip (2).mp3</file>
+        <file>songs/piano cancion hermosa final fantasy.mp3</file>
+    </qresource>
+    <qresource prefix="/corazones">
+        <file>Baraja/corazones/2-corazones-rojo.png</file>
+        <file>Baraja/corazones/3-corazones-rojo.png</file>
+        <file>Baraja/corazones/4-corazones-rojo.png</file>
+        <file>Baraja/corazones/5-corazones-rojo.png</file>
+        <file>Baraja/corazones/6-corazones-rojo.png</file>
+        <file>Baraja/corazones/7-corazones-rojo.png</file>
+        <file>Baraja/corazones/8-corazones-rojo.png</file>
+        <file>Baraja/corazones/9-corazones-rojo.png</file>
+        <file>Baraja/corazones/10-corazones-rojo.png</file>
+        <file>Baraja/corazones/as-corazones-rojo.png</file>
+        <file>Baraja/corazones/j-corazones-rojo.png</file>
+        <file>Baraja/corazones/k-corazones-rojo.png</file>
+        <file>Baraja/corazones/q-corazones-rojo.png</file>
+    </qresource>
+    <qresource prefix="/bastos">
+        <file>Baraja/espada/2-espada-negro.png</file>
+        <file>Baraja/espada/3-espada-negro.png</file>
+        <file>Baraja/espada/4-espada-negro.png</file>
+        <file>Baraja/espada/5-espada-negro.png</file>
+        <file>Baraja/espada/6-espada-negro.png</file>
+        <file>Baraja/espada/7-espada-negro.png</file>
+        <file>Baraja/espada/8-espada-negro.png</file>
+        <file>Baraja/espada/9-espada-negro.png</file>
+        <file>Baraja/espada/10-espada-negro.png</file>
+        <file>Baraja/espada/as-espada-negro.png</file>
+        <file>Baraja/espada/j-espada-negro.png</file>
+        <file>Baraja/espada/k-espada-negro.png</file>
+        <file>Baraja/espada/q-espada-negro.png</file>
+    </qresource>
+    <qresource prefix="/diamantes">
+        <file>Baraja/diamante/2-diamante-rojo.png</file>
+        <file>Baraja/diamante/3-diamante-rojo.png</file>
+        <file>Baraja/diamante/4-diamante-rojo.png</file>
+        <file>Baraja/diamante/5-diamante-rojo.png</file>
+        <file>Baraja/diamante/6-diamante-rojo.png</file>
+        <file>Baraja/diamante/7-diamante-rojo.png</file>
+        <file>Baraja/diamante/8-diamante-rojo.png</file>
+        <file>Baraja/diamante/9-diamante-rojo.png</file>
+        <file>Baraja/diamante/10-diamante-rojo.png</file>
+        <file>Baraja/diamante/as-diamante-rojo.png</file>
+        <file>Baraja/diamante/j-diamante-rojo.png</file>
+        <file>Baraja/diamante/k-diamante-rojo.png</file>
+        <file>Baraja/diamante/q-diamante-rojo.png</file>
+    </qresource>
+    <qresource prefix="/treboles">
+        <file>Baraja/trebol/2-trebol-negro.png</file>
+        <file>Baraja/trebol/3-trebol-negro.png</file>
+        <file>Baraja/trebol/4-trebol-negro.png</file>
+        <file>Baraja/trebol/5-trebol-negro.png</file>
+        <file>Baraja/trebol/6-trebol-negro.png</file>
+        <file>Baraja/trebol/7-trebol-negro.png</file>
+        <file>Baraja/trebol/8-trebol-negro.png</file>
+        <file>Baraja/trebol/9-trebol-negro.png</file>
+        <file>Baraja/trebol/10-trebol-negro.png</file>
+        <file>Baraja/trebol/as-trebol-negro.png</file>
+        <file>Baraja/trebol/j-trebol-negro.png</file>
+        <file>Baraja/trebol/k-trebol-negro.png</file>
+        <file>Baraja/trebol/q-trebol-negro.png</file>
+    </qresource>
+    <qresource prefix="/jockers">
+        <file>Baraja/jocker/joker3.png</file>
+        <file>Baraja/jocker/negrojocker.jpg</file>
+    </qresource>
+    <qresource prefix="/complementos">
+        <file>imag/back2.png</file>
+        <file>imag/bbla.png</file>
+        <file>imag/blanco.png</file>
+        <file>imag/fondo1.jpg</file>
+        <file>imag/mazo.png</file>
+        <file>imag/rojo-1.png</file>
+        <file>imag/congratulations-1.png</file>
+        <file>imag/total.png</file>
+        <file>imag/ganador.png</file>
+        <file>rondas/colocaCarta.png</file>
+        <file>imag/es.png</file>
+        <file>rondas/reyoreina.png</file>
+        <file>rondas/partnercarta.png</file>
+        <file>imag/win1.png</file>
+        <file>imag/win2.png</file>
+        <file>imag/logo.png</file>
+    </qresource>
+    <qresource prefix="/num">
+        <file>numbers/0.png</file>
+        <file>numbers/1.png</file>
+        <file>numbers/2.png</file>
+        <file>numbers/3.png</file>
+        <file>numbers/4.png</file>
+        <file>numbers/5.png</file>
+        <file>numbers/6.png</file>
+        <file>numbers/7.png</file>
+        <file>numbers/8.png</file>
+        <file>numbers/9.png</file>
+    </qresource>
+    <qresource prefix="/deco">
+        <file>Deco/vampi.png</file>
+        <file>imag/ff.png</file>
+        <file>imag/Tribales-vampiro-2.png</file>
+    </qresource>
+    <qresource prefix="/eti">
+        <file>rondas/1ra.png</file>
+        <file>rondas/2da.png</file>
+        <file>rondas/3ra.png</file>
+        <file>rondas/4ta.png</file>
+        <file>rondas/5ta.png</file>
+        <file>rondas/6ta.png</file>
+    </qresource>
+</RCC>
